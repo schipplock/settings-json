@@ -15,9 +15,9 @@
  */
 package de.schipplock.settings;
 
-import javax.json.bind.Jsonb;
-import javax.json.bind.JsonbBuilder;
-import javax.json.bind.JsonbConfig;
+import jakarta.json.bind.Jsonb;
+import jakarta.json.bind.JsonbBuilder;
+import jakarta.json.bind.JsonbConfig;
 import java.io.IOException;
 import java.net.URI;
 import java.nio.file.Files;
